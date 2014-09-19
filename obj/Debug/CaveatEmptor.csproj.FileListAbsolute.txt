@@ -1,0 +1,16 @@
+C:\VsProject\Source\CaveatEmptor\CaveatEmptor\bin\Debug\System.Data.SQLite.dll
+C:\VsProject\Source\CaveatEmptor\CaveatEmptor\bin\Debug\CaveatEmptor.exe.config
+C:\VsProject\Source\CaveatEmptor\CaveatEmptor\bin\Debug\CaveatEmptor.exe
+C:\VsProject\Source\CaveatEmptor\CaveatEmptor\bin\Debug\CaveatEmptor.pdb
+C:\VsProject\Source\CaveatEmptor\CaveatEmptor\bin\Debug\FluentNHibernate.dll
+C:\VsProject\Source\CaveatEmptor\CaveatEmptor\bin\Debug\Iesi.Collections.dll
+C:\VsProject\Source\CaveatEmptor\CaveatEmptor\bin\Debug\log4net.dll
+C:\VsProject\Source\CaveatEmptor\CaveatEmptor\bin\Debug\NHibernate.dll
+C:\VsProject\Source\CaveatEmptor\CaveatEmptor\bin\Debug\FluentNHibernate.xml
+C:\VsProject\Source\CaveatEmptor\CaveatEmptor\bin\Debug\Iesi.Collections.xml
+C:\VsProject\Source\CaveatEmptor\CaveatEmptor\bin\Debug\NHibernate.xml
+C:\VsProject\Source\CaveatEmptor\CaveatEmptor\obj\Debug\CaveatEmptor.exe
+C:\VsProject\Source\CaveatEmptor\CaveatEmptor\obj\Debug\CaveatEmptor.pdb
+C:\VsProject\Source\CaveatEmptor\CaveatEmptor\bin\Debug\SQLite.Interop.dll
+C:\VsProject\Source\CaveatEmptor\CaveatEmptor\bin\Debug\log4net.xml
+C:\VsProject\Source\CaveatEmptor\CaveatEmptor\bin\Debug\System.Data.SQLite.pdb
